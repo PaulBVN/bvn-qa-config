@@ -1,0 +1,7 @@
+sip-provider:
+  registrar: 127.0.0.1
+  inbound-proxy: 1.0.0.0
+  
+softphone-settings:
+  logo-url: www.bvn-com/logos/bvn-16x16.png
+  theme: native
